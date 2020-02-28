@@ -1,0 +1,1 @@
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{Count:1b,id:diamond_boots,tag:{Enchantments:[{id:"minecraft:thorns",lvl:99999},{id:"minecraft:projectille_protection",lvl:9999},{id:"minecraft:blast_protection",lvl:9999},{id:"minecraft:protection",lvl:99999},]}},{Count:0b,id:},{Count:0b,id:},{Count:0b,id:}]}
